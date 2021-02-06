@@ -1,2 +1,3 @@
 # Software-Carpentry-databases
-Software Carpentry lessons about Databases and SQL
+
+Software Carpentry lesson about Databases and SQL (http://swcarpentry.github.io/sql-novice-survey/)
